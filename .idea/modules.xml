@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestingSmartModule.iml" filepath="$PROJECT_DIR$/.idea/modules/TestingSmartModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TestingSmartModule.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TestingSmartModule.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-614020607/com.netcore.reactnative.TestingSmartModule.smartech-reactnative-module.iml" filepath="$PROJECT_DIR$/.idea/modules/-614020607/com.netcore.reactnative.TestingSmartModule.smartech-reactnative-module.iml" />
+    </modules>
+  </component>
+</project>
